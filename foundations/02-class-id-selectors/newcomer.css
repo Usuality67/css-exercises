@@ -1,0 +1,17 @@
+p {
+    background-color: #FFCCCB;
+    font-family: Verdana , "DejaVu Sans", sans-serif
+}
+div#This {
+    color: blue;
+    font-size: 36px;
+}
+p.That{
+    font-size: 24px;
+}
+div.four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+ 
+}
